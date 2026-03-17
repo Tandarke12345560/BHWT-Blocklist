@@ -1,0 +1,44 @@
+# --- [BHWT] TURKISH OEM & ADS (REEDER/CASPER/ADMATIC) ---
+reeder.com.tr
+api.reeder.com.tr
+casper.com.tr
+api.casper.com.tr
+admatic.com.tr
+admost.com
+reklamz.com
+
+# --- [GLOBAL] THE BIG FIVE (META/GOOGLE/APPLE/XIAOMI/SAMSUNG) ---
+graph.facebook.com
+pixel.facebook.com
+doubleclick.net
+google-analytics.com
+iad-apple.com
+metrics.apple.com
+tracking.miui.com
+samsungads.com
+
+# --- [GLOBAL] AGGRESSIVE & "EDEPSİZ" ADS (ROMANYA/İNGİLTERE/ASYA) ---
+mgid.com
+propellerads.com
+popads.net
+popcash.net
+exoclick.com
+clickadu.com
+juicyads.com
+traffichunt.com
+
+# --- [GLOBAL] TRACKERS & TELEMETRY (THE SPIES) ---
+adjust.com
+appsflyer.com
+hotjar.com
+app-measurement.com
+vungle.com
+applovin.com
+crashlytics.com
+sentry.io
+
+# --- [EXTRA] ASIA & PACIFIC SHIELD ---
+# Hindistan/Bangladeş parlamalarını söndürmek için
+api.ad.oppomobile.com
+tracking.oppomobile.com
+api.ad.vivo.com
