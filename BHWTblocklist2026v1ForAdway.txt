@@ -1,0 +1,67 @@
+# ===============================================================
+# [BHWT-Blocklist] v1-1 - ADAWAY & HOSTS COMPATIBLE VERSION
+# Last Update: 2026.03.18
+# Format: Standard Hosts (0.0.0.0)
+# ===============================================================
+
+# --- [BHWT] TURKISH OEM & ADS ---
+0.0.0.0 reeder.com.tr
+0.0.0.0 api.reeder.com.tr
+0.0.0.0 casper.com.tr
+0.0.0.0 api.casper.com.tr
+0.0.0.0 admatic.com.tr
+0.0.0.0 admost.com
+0.0.0.0 reklamz.com
+
+# --- [GLOBAL] THE BIG FIVE ---
+0.0.0.0 graph.facebook.com
+0.0.0.0 pixel.facebook.com
+0.0.0.0 doubleclick.net
+0.0.0.0 google-analytics.com
+0.0.0.0 iad-apple.com
+0.0.0.0 metrics.apple.com
+0.0.0.0 tracking.miui.com
+0.0.0.0 samsungads.com
+
+# --- [GLOBAL] AGGRESSIVE ADS ---
+0.0.0.0 mgid.com
+0.0.0.0 propellerads.com
+0.0.0.0 popads.net
+0.0.0.0 popcash.net
+0.0.0.0 exoclick.com
+0.0.0.0 clickadu.com
+0.0.0.0 juicyads.com
+0.0.0.0 traffichunt.com
+
+# --- [GLOBAL] TRACKERS & TELEMETRY ---
+0.0.0.0 adjust.com
+0.0.0.0 appsflyer.com
+0.0.0.0 hotjar.com
+0.0.0.0 app-measurement.com
+0.0.0.0 vungle.com
+0.0.0.0 applovin.com
+0.0.0.0 crashlytics.com
+0.0.0.0 sentry.io
+
+# --- [EXTRA] ASIA & PACIFIC SHIELD ---
+0.0.0.0 api.ad.oppomobile.com
+0.0.0.0 tracking.oppomobile.com
+0.0.0.0 api.ad.vivo.com
+
+# [NOT: Wildcard (*) içeren satırlar AdAway için temizlenmiştir]
+# Samsung, Xiaomi ve IoT cihazlar için ana domainler eklenmiştir.
+0.0.0.0 samsungads.com
+0.0.0.0 samsung-cloud.com
+0.0.0.0 lgtvcommon.com
+0.0.0.0 hisenitv.com
+0.0.0.0 vizio.com
+0.0.0.0 mi.com
+0.0.0.0 roborock.com
+0.0.0.0 tuya.com
+0.0.0.0 tuyacn.com
+0.0.0.0 smartlife.me
+
+# --- [SCAMS & FAKE ALERTS] ---
+0.0.0.0 ouo.io
+0.0.0.0 linkvertise.com
+0.0.0.0 adf.ly
