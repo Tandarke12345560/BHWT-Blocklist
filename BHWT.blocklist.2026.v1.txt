@@ -140,3 +140,79 @@ bet-promo.net
 bonus-finder.com
 casinogrounds.com
 
+# --- [BHWT-Blocklist] WEB-BASED EXPLOIT & CPU STEALERS ---
+# (Web üzerinden işlemci sömüren sinsi script kütüphaneleri)
+coinhive.com
+*.coinhive.*
+authedmine.com
+coin-have.com
+webminepool.com
+*.webminepool.*
+minr.pw
+crypto-loot.com
+*.cryptoloot.*
+
+# ===============================================================
+# [BHWT-Blocklist] CATEGORY: IOT & SMART DEVICE PRIVACY (2026)
+# (Akıllı cihazların arka planda veri sızdırmasını engeller)
+# ===============================================================
+
+# --- [SMART TV & STREAMING TELEMETRY] ---
+# Samsung, LG, Sony ve Android TV'lerin izleme servisleri
+*.samsungads.com
+*.samsung-cloud.com
+*.lgtvcommon.com
+*.hisenitv.com
+*.vizio.com
+*.atv-ps.amazon.com
+
+# --- [XIAOMI / ROBOROCK / MI HOME GEVEZELİĞİ] ---
+# Evdeki akıllı süpürge ve sensörlerin Çin sunucuları
+*.mi.com
+*.api.io.mi.com
+*.ot.io.mi.com
+*.fr.api.io.mi.com
+*.api.io.miui.com
+*.roborock.com
+
+# --- [GENERAL IOT LOGGERS & TRACKERS] ---
+# Çoğu ucuz akıllı cihazın kullandığı ortak veri toplama havuzları
+*.iot-log.com
+*.smart-logs.net
+*.cloud-telemetry.io
+*.device-metrics.com
+*.log.iot.com
+*.data-receiver.net
+
+# --- [TUYA / SMART LIFE ECOSYSTEM] ---
+# Dünyadaki akıllı priz/lamba trafiğinin %60'ını yöneten ağ
+*.tuya.com
+*.tuyacn.com
+*.smartlife.me
+
+# ===============================================================
+# [BHWT-Blocklist] CATEGORY: SCAMS & FAKE ALERTS
+# (Sahte virüs uyarıları ve "Dosyayı İndir" tuzaklarını keser)
+# ===============================================================
+
+# --- [FAKE VIRUS & SYSTEM ALERTS] ---
+# "Sisteminiz tehlikede" diyen sahte uyarı siteleri
+*.cleaner-update.*
+*.virus-scan-online.*
+*.system-notification.*
+*.security-check-up.*
+
+# --- [FAKE DOWNLOAD BUTTONS & REDIRECTS] ---
+# İndirme butonlarının arkasına saklanan reklam ağları
+*.fast-download.*
+*.file-storage.*
+*.direct-link-service.*
+*.ad-get-files.*
+
+# --- [PHISHING & MALICIOUS SHORTENERS] ---
+# Link kısaltıcı kılığındaki zararlı siteler
+*.shorte.st
+*.sh.st
+*.ouo.io
+*.linkvertise.com
+*.bitly.sh
