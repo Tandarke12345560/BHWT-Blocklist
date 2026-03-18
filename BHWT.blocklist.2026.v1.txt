@@ -42,3 +42,101 @@ sentry.io
 api.ad.oppomobile.com
 tracking.oppomobile.com
 api.ad.vivo.com
+
+# ===============================================================
+# [BHWT-Blocklist] CATEGORY: GAMBLING, CASINO & BETTING (2026.v2)
+# Status: Aggressive Block / Built by: Tandarke12345560
+# ===============================================================
+
+# --- [GLOBAL GIANT BETTING NETWORKS] ---
+1xbet.com
+*.1xbet.*
+bet365.com
+*.bet365.*
+bwin.com
+*.bwin.*
+betway.com
+*.betway.*
+888casino.com
+*.888.*
+williamhill.com
+unibet.com
+*.unibet.*
+paddypower.com
+22bet.com
+*.22bet.*
+mostbet.com
+*.mostbet.*
+
+# --- [CASINO INFRASTRUCTURE & GAME PROVIDERS] ---
+# (Oyunların yüklenmesini temelden kesen kritik sunucular)
+pragmaticplay.com
+*.pragmaticplay.*
+evolutiongaming.com
+*.evolution.com
+softswiss.com
+*.softswiss.*
+affilka.com
+*.affilka.com
+betradar.com
+egamingonline.com
+playtech.com
+*.playtech.*
+
+# --- [AGGRESSIVE GAMBLING AD-NETWORKS & AFFILIATES] ---
+# (İllegal sitelerde çıkan o meşhur 'pop-up' ve yönlendirme ağları)
+incomeaccess.com
+*.incomeaccess.com
+ads-on.com
+tsyndicate.com
+*.tsyndicate.*
+doublepimp.com
+popads.net
+*.popads.*
+propellerads.com
+*.propellerads.*
+onclickads.net
+realsrv.com
+ero-advertising.com
+plugrush.com
+adsterra.com
+*.adsterra.*
+richads.com
+*.richads.*
+zeropark.com
+*.zeropark.*
+
+# --- [LOCAL (TR) TARGETED BETTING & CASINO SITES] ---
+# (Türkiye'deki maç ve film sitelerini istila eden yerel ağlar)
+jojobet.com
+*.jojobet.*
+bets10.com
+*.bets10.*
+tempobet.com
+*.tempobet.*
+ngsbahis.com
+*.ngsbahis.*
+pashagaming.com
+*.pashagaming.*
+sekabet.com
+*.sekabet.*
+superbahis.com
+*.superbahis.*
+mobilbahis.com
+*.mobilbahis.*
+tipobet365.com
+*.tipobet*
+betebet.com
+*.betebet.*
+perabet.com
+*.perabet.*
+matbet.com
+*.matbet.*
+
+# --- [GAMBLING PROMO & BONUS REDIRECTS] ---
+casino-bonus.cc
+freespins.io
+bet-promo.net
+bonus-finder.com
+casinogrounds.com
+
