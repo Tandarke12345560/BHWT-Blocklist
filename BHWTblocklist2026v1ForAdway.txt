@@ -172,6 +172,56 @@
 0.0.0.0 clickadu.com
 
 # ===============================================================
+# [BHWT] FREE GAMES TRACKERS - MOBILE ECOSYSTEM OVERKILL
+# ===============================================================
+# Bu bölüm, "Ücretsiz" oyunların içine gizlenen ve verilerinizi 
+# sızdıran 29+ farklı sinsi izleyiciyi (tracker) hedef alır.
+# ===============================================================
+
+# --- [OUTFIT7 & ANALYTICS] ---
+0.0.0.0 cl-cdn.outfit7.com
+0.0.0.0 o7.com
+0.0.0.0 ads.outfit7.com
+0.0.0.0 analytics.outfit7.com
+
+# --- [SINGULAR & ADJUST & INMOBI] ---
+0.0.0.0 singular.net
+0.0.0.0 sdk.singular.net
+0.0.0.0 c.singular.net
+0.0.0.0 inmobi.com
+0.0.0.0 config.inmobi.com
+0.0.0.0 stats.inmobi.com
+
+# --- [PANGLE & MINTEGRAL & SMAATO] ---
+0.0.0.0 pangle.io
+0.0.0.0 pglstatp-va.pangle.io
+0.0.0.0 mintegral.com
+0.0.0.0 analytics.mintegral.com
+0.0.0.0 smaato.net
+0.0.0.0 sdk.smaato.net
+
+# --- [CHARTBOOST & IRONSOURCE & APPODEAL] ---
+0.0.0.0 chartboost.com
+0.0.0.0 cb.chartboost.com
+0.0.0.0 ironsrc.com
+0.0.0.0 sdk.is.com
+0.0.0.0 appodeal.com
+0.0.0.0 api.appodeal.com
+
+# --- [HYPRMX & OGURY & KIDOZ] ---
+0.0.0.0 hyprmx.com
+0.0.0.0 ogury.io
+0.0.0.0 kidoz.net
+0.0.0.0 fyber.com
+
+# --- [YANDEX & AMAZON & BUGSNAG] ---
+0.0.0.0 metrica.yandex.com
+0.0.0.0 amazon-adsystem.com
+0.0.0.0 bugsnag.com
+0.0.0.0 notify.bugsnag.com
+
+
+# ===============================================================
 # [BHWT] MASSIVE STRIKE END - THE WALL IS READY
 # ===============================================================
 
