@@ -65,3 +65,122 @@
 0.0.0.0 ouo.io
 0.0.0.0 linkvertise.com
 0.0.0.0 adf.ly
+
+# --- [BHWT] UNITY ENGINE TRACKERS (FOR FREE GAMES) --
+0.0.0.0 telemetry.unity3d.com
+0.0.0.0 config.uca.cloud.unity3d.com
+0.0.0.0 data.uca.cloud.unity3d.com
+0.0.0.0 cdp.cloud.unity3d.com
+
+# --- [BHWT] TURKISH SPECIFIC TRACKERS & ANALYTICS ---
+0.0.0.0 netmera.com
+0.0.0.0 api.netmera.com
+0.0.0.0 tracking.reeder.com.tr
+0.0.0.0 analytics.casper.com.tr
+
+# --- [BHWT] GOOGLE & FIREBASE DEEP TRACKING ---
+0.0.0.0 firebase-settings.crashlytics.com
+0.0.0.0 click.googleanalytics.com
+0.0.0.0 firebaseinstallations.googleapis.com
+0.0.0.0 measurement.google.com
+
+# --- [BHWT] MOBILE AD NETWORKS & ANALYTICS ---
+0.0.0.0 a.applovin.com
+0.0.0.0 ms.applovin.com
+0.0.0.0 count.ly
+0.0.0.0 doubleverify.com
+0.0.0.0 moatads.com
+0.0.0.0 iasdirect.com
+0.0.0.0 adjusting.io
+
+# ===============================================================
+# [BHWT] THE MASSIVE STRIKE - TRACKER & ANALYTICS OVERKILL
+# ===============================================================
+
+# --- [UNITY & GAME ENGINES] ---
+0.0.0.0 telemetry.unity3d.com
+0.0.0.0 config.uca.cloud.unity3d.com
+0.0.0.0 data.uca.cloud.unity3d.com
+0.0.0.0 cdp.cloud.unity3d.com
+0.0.0.0 unityads.unity3d.com
+0.0.0.0 stats.unity3d.com
+0.0.0.0 ads.service.unity3d.com
+0.0.0.0 analytics.social.unity.com
+0.0.0.0 tracking.unrealengine.com
+
+# --- [TURKISH ANALYTICS & ADS - DEEP CLEAN] ---
+0.0.0.0 netmera.com
+0.0.0.0 api.netmera.com
+0.0.0.0 r.netmera.com
+0.0.0.0 ntmr.io
+0.0.0.0 tracking.reeder.com.tr
+0.0.0.0 analytics.casper.com.tr
+0.0.0.0 reklam.gen.tr
+0.0.0.0 medyanetads.com
+0.0.0.0 dogan.admost.com
+0.0.0.0 ad.izlesene.com
+
+# --- [GLOBAL MOBILE TRACKERS & SDKs] ---
+0.0.0.0 adjust.com
+0.0.0.0 app.adjust.com
+0.0.0.0 view.adjust.com
+0.0.0.0 appsflyer.com
+0.0.0.0 t.appsflyer.com
+0.0.0.0 events.appsflyer.com
+0.0.0.0 applovin.com
+0.0.0.0 a.applovin.com
+0.0.0.0 ms.applovin.com
+0.0.0.0 rt.applovin.com
+0.0.0.0 ironsrc.com
+0.0.0.0 platform.ironsrc.com
+0.0.0.0 sdk.is.com
+0.0.0.0 app-measurement.com
+0.0.0.0 app-measurement.net
+0.0.0.0 vungle.com
+0.0.0.0 ads.vungle.com
+0.0.0.0 tapjoy.com
+0.0.0.0 api.tapjoy.com
+0.0.0.0 chartboost.com
+0.0.0.0 ads.chartboost.com
+
+# --- [CRASH & LOGGING - DATA LEAKS] ---
+0.0.0.0 firebase-settings.crashlytics.com
+0.0.0.0 reports.crashlytics.com
+0.0.0.0 settings.crashlytics.com
+0.0.0.0 click.googleanalytics.com
+0.0.0.0 firebaseinstallations.googleapis.com
+0.0.0.0 stats.g.doubleclick.net
+0.0.0.0 crashlytics.com
+0.0.0.0 sentry.io
+0.0.0.0 bugsnag.com
+
+# --- [AGGRESSIVE ADS & MALWARE DOMAINS] ---
+0.0.0.0 moatads.com
+0.0.0.0 iasdirect.com
+0.0.0.0 doubleverify.com
+0.0.0.0 adcolony.com
+0.0.0.0 ads.adcolony.com
+0.0.0.0 mopub.com
+0.0.0.0 ads.mopub.com
+0.0.0.0 outbrain.com
+0.0.0.0 taboola.com
+0.0.0.0 scorecardresearch.com
+0.0.0.0 quantserve.com
+0.0.0.0 popads.net
+0.0.0.0 popcash.net
+0.0.0.0 exoclick.com
+0.0.0.0 clickadu.com
+
+# ===============================================================
+# [BHWT] MASSIVE STRIKE END - THE WALL IS READY
+# ===============================================================
+
+# ===============================================================
+# [BHWT] FEEDBACK & SUGGESTIONS
+# ===============================================================
+# If you find an inactive domain or a new ad/tracker, 
+# please let me know by opening an "Issue" on GitHub!
+# Let's build a tracker-free Android experience together.
+# ===============================================================
+# [BHWT] END OF LIST - THANKS FOR USING
+# ===============================================================
