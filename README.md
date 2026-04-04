@@ -5,6 +5,5 @@ Nasıl liste adway ile kullanılır
 How to use Adway with lists
 
 ![1000106416](https://github.com/user-attachments/assets/3af261ed-91d1-421e-b8ae-d62514e0bd5d)
-![1000106417](https://github.com/user-attachments/assets/af14813a-89ef-4b7c-80a3-2e66887fc7f5)
 ![1000106418](https://github.com/user-attachments/assets/925e913f-7827-44d4-936b-5d8765695edb)
 ![1000106420](https://github.com/user-attachments/assets/40737908-a65f-4549-8ef9-5387939f65c1)
