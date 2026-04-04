@@ -12,6 +12,10 @@
 0.0.0.0 admatic.com.tr
 0.0.0.0 admost.com
 0.0.0.0 reklamz.com
+0.0.0.0 reklam.gen.tr
+0.0.0.0 tr.gemius.pl
+0.0.0.0 netmerrica.com
+0.0.0.0 tracking.justpremium.com
 
 # --- [GLOBAL] THE BIG FIVE ---
 0.0.0.0 graph.facebook.com
@@ -42,6 +46,10 @@
 0.0.0.0 applovin.com
 0.0.0.0 crashlytics.com
 0.0.0.0 sentry.io
+0.0.0.0 pixel.facebook.com
+0.0.0.0 analytics.twitter.com
+0.0.0.0 t.tiktok.com
+0.0.0.0 ads-api.twitter.com
 
 # --- [EXTRA] ASIA & PACIFIC SHIELD ---
 0.0.0.0 api.ad.oppomobile.com
@@ -60,6 +68,12 @@
 0.0.0.0 tuya.com
 0.0.0.0 tuyacn.com
 0.0.0.0 smartlife.me
+0.0.0.0 tracking.miui.com
+0.0.0.0 data.mistat.xiaomi.com
+0.0.0.0 bdt.samsungcloud.com
+0.0.0.0 config.samsungads.com
+0.0.0.0 metrics.data.hicloud.com
+0.0.0.0 ibis.lgsmartad.com
 
 # --- [SCAMS & FAKE ALERTS] ---
 0.0.0.0 ouo.io
@@ -92,6 +106,10 @@
 0.0.0.0 moatads.com
 0.0.0.0 iasdirect.com
 0.0.0.0 adjusting.io
+0.0.0.0 api.mixpanel.com
+0.0.0.0 logx.optimizely.com
+0.0.0.0 functional.segment.com
+0.0.0.0 browser.sentry-cdn.com
 
 # ===============================================================
 # [BHWT] THE MASSIVE STRIKE - TRACKER & ANALYTICS OVERKILL
@@ -220,6 +238,100 @@
 0.0.0.0 bugsnag.com
 0.0.0.0 notify.bugsnag.com
 
+# ---[EXTRAS & NO CATEGORY] ---
+0.0.0.0 ad-delivery.net
+0.0.0.0 ads.yieldmo.com
+0.0.0.0 app-measurement.com
+0.0.0.0 applovin.com
+0.0.0.0 b.scorecardresearch.com
+0.0.0.0 beacon.tapfiliate.com
+0.0.0.0 collect.tealiumiq.com
+0.0.0.0 crashlyticsreports-pa.googleapis.com
+0.0.0.0 d3pkae9owd2lcf.cloudfront.net
+0.0.0.0 data.flurry.com
+0.0.0.0 events.appsflyer.com
+0.0.0.0 firebaselogging-pa.googleapis.com
+0.0.0.0 graph.facebook.com
+0.0.0.0 mobile-collector.newrelic.com
+0.0.0.0 outbrain.com
+0.0.0.0 sdk.split.io
+0.0.0.0 settings-win.data.microsoft.com
+0.0.0.0 stats.g.doubleclick.net
+0.0.0.0 taboola.com
+0.0.0.0 telemetry.sdk.unityads.unity3d.com
+0.0.0.0 track.adform.net
+0.0.0.0 tracking-protection.cdn.mozilla.net
+0.0.0.0 vungle.com
+0.0.0.0 watson.telemetry.microsoft.com
+0.0.0.0 ziggy.myojio.com
+0.0.0.0 aax.amazon-adsystem.com
+0.0.0.0 ad-delivery.net
+0.0.0.0 ad.doubleclick.net
+0.0.0.0 adservice.google.com
+0.0.0.0 adserver.adtech.de
+0.0.0.0 ads.google.com
+0.0.0.0 ads.pubmatic.com
+0.0.0.0 ads.yahoo.com
+0.0.0.0 ads.yieldmo.com
+0.0.0.0 ads-api.twitter.com
+0.0.0.0 analytics.twitter.com
+0.0.0.0 anycast.pixel.adnxs.com
+0.0.0.0 api.mixpanel.com
+0.0.0.0 app-measurement.com
+0.0.0.0 applovin.com
+0.0.0.0 b.scorecardresearch.com
+0.0.0.0 bdt.samsungcloud.com
+0.0.0.0 beacon.krxd.net
+0.0.0.0 beacon.tapfiliate.com
+0.0.0.0 browser.sentry-cdn.com
+0.0.0.0 cm.g.doubleclick.net
+0.0.0.0 collect.tealiumiq.com
+0.0.0.0 config.samsungads.com
+0.0.0.0 crashlyticsreports-pa.googleapis.com
+0.0.0.0 d3pkae9owd2lcf.cloudfront.net
+0.0.0.0 data.flurry.com
+0.0.0.0 data.mistat.xiaomi.com
+0.0.0.0 dpm.demdex.net
+0.0.0.0 events.appsflyer.com
+0.0.0.0 firebaselogging-pa.googleapis.com
+0.0.0.0 functional.segment.com
+0.0.0.0 gads.pubmatic.com
+0.0.0.0 graph.facebook.com
+0.0.0.0 hub.h-ad.jp
+0.0.0.0 ib.adnxs.com
+0.0.0.0 ibis.lgsmartad.com
+0.0.0.0 logx.optimizely.com
+0.0.0.0 mads.amazon-adsystem.com
+0.0.0.0 matching.ad-m.asia
+0.0.0.0 metrics.data.hicloud.com
+0.0.0.0 mobile-collector.newrelic.com
+0.0.0.0 netmerrica.com
+0.0.0.0 outbrain.com
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 pixel.facebook.com
+0.0.0.0 r.mradx.net
+0.0.0.0 reklam.gen.tr
+0.0.0.0 s.amazon-adsystem.com
+0.0.0.0 sdk.split.io
+0.0.0.0 securepubads.g.doubleclick.net
+0.0.0.0 serve.popads.net
+0.0.0.0 settings-win.data.microsoft.com
+0.0.0.0 static.doubleclick.net
+0.0.0.0 static.exoclick.com
+0.0.0.0 stats.g.doubleclick.net
+0.0.0.0 syndication.exoclick.com
+0.0.0.0 t.tiktok.com
+0.0.0.0 taboola.com
+0.0.0.0 tags.tiqcdn.com
+0.0.0.0 telemetry.sdk.unityads.unity3d.com
+0.0.0.0 tr.gemius.pl
+0.0.0.0 track.adform.net
+0.0.0.0 tracking.justpremium.com
+0.0.0.0 tracking.miui.com
+0.0.0.0 tracking-protection.cdn.mozilla.net
+0.0.0.0 vungle.com
+0.0.0.0 watson.telemetry.microsoft.com
+0.0.0.0 ziggy.myojio.com
 
 # ===============================================================
 # [BHWT] MASSIVE STRIKE END - THE WALL IS READY
